@@ -1,9 +1,6 @@
 // - - - - -
 // DmxSerial - A hardware supported interface to DMX.
 //
-// Copyright (c) 2011-2015 by Matthias Hertel, http://www.mathertel.de
-// This work is licensed under a BSD style license. See http://www.mathertel.de/License.aspx
-// Documentation and samples are available at http://www.mathertel.de/Arduino
 // - - - - -
 
 // Version 006 vom 21.03.2024
